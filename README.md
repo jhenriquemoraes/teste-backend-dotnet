@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# teste-backend-junior
-=======
 # 🚗 Teste Técnico - Back-end .NET
 
 Este repositório contém a implementação de um teste técnico para avaliação de conhecimentos em desenvolvimento back-end utilizando .NET.
@@ -145,6 +142,5 @@ Sem aplicar complexidade desnecessária ao escopo proposto.
 
 ## 👨‍💻 Autor
 
-Henrique Moraes
+Henrique Moraes  
 [LinkedIn](https://www.linkedin.com/in/jhenriquesmoraes/)
->>>>>>> 51b5017 (Read.me do projeto)
